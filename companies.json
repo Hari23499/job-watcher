@@ -1,0 +1,15 @@
+[
+  {"name":"Google","url":"https://careers.google.com/jobs/results/?q=software%20intern&employment_type=INTERN"},
+  {"name":"Meta","url":"https://www.metacareers.com/jobs?q=software%20intern"},
+  {"name":"Amazon","url":"https://www.amazon.jobs/en/search?keywords=software%20intern"},
+  {"name":"Microsoft","url":"https://careers.microsoft.com/us/en/search-results?keywords=intern"},
+  {"name":"Stripe","url":"https://stripe.com/jobs/search?team=Engineering"},
+  {"name":"Airbnb","url":"https://careers.airbnb.com/positions/?department=Engineering"},
+  {"name":"Uber","url":"https://www.uber.com/global/en/careers/list/"},
+  {"name":"Salesforce","url":"https://www.salesforce.com/company/careers/"},
+  {"name":"Notion","url":"https://www.notion.so/careers"},
+  {"name":"Figma","url":"https://www.figma.com/careers/jobs/"},
+
+  {"name":"YC Startup Example","url":"https://example-startup.com/careers"},
+  {"name":"Small Startup Template","url":"https://small-startup.example/careers"}
+]
